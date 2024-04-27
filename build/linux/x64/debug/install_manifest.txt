@@ -1,0 +1,13 @@
+/home/maxdo/Bureau/tp_elections_groupe10/build/linux/x64/debug/bundle/tp_election
+/home/maxdo/Bureau/tp_elections_groupe10/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/maxdo/Bureau/tp_elections_groupe10/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/maxdo/Bureau/tp_elections_groupe10/build/linux/x64/debug/bundle/lib/libfile_selector_linux_plugin.so
+/home/maxdo/Bureau/tp_elections_groupe10/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/maxdo/Bureau/tp_elections_groupe10/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/maxdo/Bureau/tp_elections_groupe10/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/maxdo/Bureau/tp_elections_groupe10/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/maxdo/Bureau/tp_elections_groupe10/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/maxdo/Bureau/tp_elections_groupe10/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/maxdo/Bureau/tp_elections_groupe10/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/maxdo/Bureau/tp_elections_groupe10/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/maxdo/Bureau/tp_elections_groupe10/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
